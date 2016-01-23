@@ -1,7 +1,7 @@
 name: Ongky Wijana Art in Stone
 favicon: null
 layout_spectrum: 0.7791656262706965
-typography_spectrum: 0.8461997003760189
+typography_spectrum: 0.25293
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#50798d'
+    - '#396379'
+    - '#6691a4'
+    - '#1d1814'
+    - '#224b61'
   brandStrength: 0.6728093945421278
   lightness: 0.4160730300936848
   saturation: 0.8775820375885814
