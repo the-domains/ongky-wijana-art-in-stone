@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ongky Wijana Art in Stone]]></title>
         <description><![CDATA[Ongky Wijana Art in Stone]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ongky-wijana-art-in-stone/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 23:31:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jan 2016 23:35:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ongky-wijana-art-in-stone/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Work for St. Germans Cathedral]]></title>
+            <description><![CDATA[<article><h1>Work for St. Germans Cathedral</h1><p>Cathedral Work </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f1f0b673c9e3e9ee36a91acd70189c1beedfbdd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ongky-wijana-art-in-stone/work-for-st-germans-cathedral/index.html</link>
+            <guid isPermaLink="false">2f053c33-3d4f-407d-8d68-14915df75b2d</guid>
+            <pubDate>Sat, 23 Jan 2016 23:35:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84b68adc-555b-45be-995a-54e4b1f563e3.jpg">]]></description>
-            <link>undefined117e117e-49dc-4cba-a96d-b9438add93b6/index.html</link>
+            <link>https://thegrid.ai/ongky-wijana-art-in-stone/117e117e-49dc-4cba-a96d-b9438add93b6/index.html</link>
             <guid isPermaLink="false">117e117e-49dc-4cba-a96d-b9438add93b6</guid>
             <pubDate>Sat, 23 Jan 2016 23:31:21 GMT</pubDate>
         </item>
