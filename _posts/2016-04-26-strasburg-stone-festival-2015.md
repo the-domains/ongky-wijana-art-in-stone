@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Strasburg Stone Festival 2015
-datePublished: '2016-04-26T04:44:27.484Z'
-dateModified: '2016-04-26T04:43:12.237Z'
+datePublished: '2016-04-26T04:44:54.275Z'
+dateModified: '2016-04-26T04:44:53.534Z'
 title: ''
 author: []
 authors: []
